@@ -3,7 +3,10 @@
 ![build](https://api.travis-ci.com/LagrangeLabs/ii-hooks.svg?branch=main&status=passed)
 ![build](https://img.shields.io/github/issues/LagrangeLabs/ii-hooks)
 ![build](https://img.shields.io/github/forks/LagrangeLabs/ii-hooks)
-![build](https://img.shields.io/github/stars/LagrangeLabs/ii-hooks)
+
+<!-- ![build](https://img.shields.io/github/stars/LagrangeLabs/ii-hooks) -->
+
+![build](https://img.shields.io/npm/v/ii-hooks)
 
 ## Getting Started
 
