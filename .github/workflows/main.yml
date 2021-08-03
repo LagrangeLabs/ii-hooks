@@ -19,6 +19,9 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
           BRANCH: gh-pages
           FOLDER: docs-dist
-      - run: npm publish
+      - name: Npm Publish
+        run: npm run build && npm publish
+        with:
+          FOLDER: dist
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
