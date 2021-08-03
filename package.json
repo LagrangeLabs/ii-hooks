@@ -1,7 +1,8 @@
 {
   "private": false,
   "name": "ii-hooks",
-  "version": "1.0.5",
+  "version": "1.0.6",
+  "license": "MIT",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
