@@ -13,6 +13,11 @@
     "test": "umi-test",
     "test:coverage": "umi-test --coverage"
   },
+  "files": [
+    "dist",
+    "es",
+    "lib"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
@@ -43,5 +48,8 @@
     "lint-staged": "^10.0.7",
     "prettier": "^1.19.1",
     "yorkie": "^2.0.0"
+  },
+  "resolutions": {
+    "@types/react": "^16.14.2"
   }
 }
