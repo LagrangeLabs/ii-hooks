@@ -21,7 +21,6 @@ jobs:
           FOLDER: docs-dist
       - name: Npm Publish
         run: npm run build && npm publish
-        with:
-          FOLDER: dist
         env:
+          FOLDER: dist
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
