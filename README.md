@@ -1,12 +1,11 @@
 # ii-hooks
 
-![build](https://api.travis-ci.com/LagrangeLabs/ii-hooks.svg?branch=main&status=passed)
-![build](https://img.shields.io/github/issues/LagrangeLabs/ii-hooks)
-![build](https://img.shields.io/github/forks/LagrangeLabs/ii-hooks)
-
-<!-- ![build](https://img.shields.io/github/stars/LagrangeLabs/ii-hooks) -->
-
-![build](https://img.shields.io/npm/v/ii-hooks)
+![build](https://img.shields.io/github/workflow/status/LagrangeLabs/ii-hooks/CI)
+![issues](https://img.shields.io/github/issues/LagrangeLabs/ii-hooks)
+![forks](https://img.shields.io/github/forks/LagrangeLabs/ii-hooks)
+![stars](https://img.shields.io/github/stars/LagrangeLabs/ii-hooks)
+![npm-version](https://img.shields.io/npm/v/ii-hooks)
+![license](https://img.shields.io/github/license/LagrangeLabs/ii-hooks)
 
 ## Getting Started
 
