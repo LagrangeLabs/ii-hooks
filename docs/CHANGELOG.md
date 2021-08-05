@@ -5,6 +5,14 @@ nav:
   path: /docs/CHANGELOG
 ---
 
+### v1.0.7
+
+- ✨ feat: 增加测试用例
+
+### v1.0.5
+
+- 🔧 build: 集成 github actions
+
 ### v1.0.1
 
 - 🔧 feat: 修改配置文件
