@@ -3,10 +3,5 @@
   "trailingComma": "all",
   "semi": false,
   "printWidth": 80,
-  "overrides": [
-    {
-      "files": ".prettierrc",
-      "options": { "parser": "json" }
-    }
-  ]
+  "overrides": [{ "files": ".prettierrc", "options": { "parser": "json" } }]
 }
